@@ -1,0 +1,18 @@
+.CentrarVertical {
+   min-height: 50vh;
+   display: flex;
+   align-items: center;
+   opacity: 0;
+   background: red;
+}
+
+/*.hezdpS /{
+   min-height: 80vh !important
+}*/
+
+.rdt_TableBody {
+   min-height: 40vh;
+}
+
+
+

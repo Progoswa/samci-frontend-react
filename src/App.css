@@ -1,0 +1,42 @@
+.green {
+    background: rgba(0, 128, 0, 0.8) !important;
+}
+
+.red {
+    background: rgba(255, 0, 0, 0.9) !important;
+}
+
+.tex-yellow {
+    color:#f4ec14;
+    /*color:black;*/
+    font-weight: bold;
+}
+
+.contenedor-login{
+    background: red;
+    width: 100%;
+}
+
+.mobile{
+    display: none;
+}
+
+
+
+@media (max-width: 800px) {
+    .mobile {
+      display: block;
+    }
+
+    .deck{
+        display: none;
+    }
+
+    .iconoMobile {
+      width: 35% !important;
+    }
+
+    .w80Mobile {
+        width: 80%;
+    }
+  }

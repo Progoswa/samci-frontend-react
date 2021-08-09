@@ -1,0 +1,12 @@
+.boton {
+    background: #3c83f47c;
+    border:solid 1px #3c83f47c;
+    color:white
+}
+
+.boton:hover {
+    background: #3c83f47c;
+    border:solid 1px #3c83f47c;
+    color:white;
+    cursor: default
+}
